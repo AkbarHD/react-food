@@ -7,8 +7,11 @@ import "./index.css";
 function App() {
   return (
     <div className="container">
+      {/*  header */}
       <Header />
+      {/* content */}
       <Menu />
+      {/* footer */}
       <Footer />
     </div>
   );
